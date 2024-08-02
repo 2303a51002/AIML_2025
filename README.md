@@ -12,7 +12,7 @@
 10. [Lab.04](): Introduction to Python Libraries-Numpy
 
 # Artificial Intelligence and Machine Learning Lab Jupyter Notebook 
-1. [Lab.01](): Introduction to Python Libraries-Numpy
+1. [Lab.01](https://github.com/2303a51002/AIML_2025/blob/main/Lab01-AIML.ipynb): Introduction to Python Libraries-Numpy
 2. [Lab.02](): Introduction to Python Libraries-Numpy
 3. [Lab.03](): Introduction to Python Libraries-Numpy
 4. [Lab.04](): Introduction to Python Libraries-Numpy
