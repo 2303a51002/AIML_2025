@@ -7,9 +7,9 @@
 5. [Lab.05](https://github.com/2303a51002/AIML_2025/blob/6bc4e9b84e080cf6073386df941b16c96db15a87/AIML_A5.pdf): Implement Logistic Regression Model Using Titanic Ship Dataset
 6. [Lab.06](https://github.com/2303a51002/AIML_2025/blob/6bc4e9b84e080cf6073386df941b16c96db15a87/AIML_A6.pdf): Implement the K Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab.07](https://github.com/2303a51002/AIML_2025/blob/6bc4e9b84e080cf6073386df941b16c96db15a87/AIML_A7%20(1).pdf): Implement Support Vector Machine Classification using Breast Cancer Dataset
-8. [Lab.08](): Introduction to Python Libraries-Numpy
-9. [Lab.09](): Introduction to Python Libraries-Numpy
-10. [Lab.10](): Introduction to Python Libraries-Numpy
+8. [Lab.08](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A8.pdf): Introduction to Python Libraries-Numpy
+9. [Lab.09](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A9.pdf): Introduction to Python Libraries-Numpy
+10. [Lab.10](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A10.pdf): Introduction to Python Libraries-Numpy
 
 # Artificial Intelligence and Machine Learning Lab Jupyter Notebook 
 1. [Lab.01](https://github.com/2303a51002/AIML_2025/blob/main/AIML_LAB01.ipynb):
