@@ -7,10 +7,9 @@
 5. [Lab.05](https://github.com/2303a51002/AIML_2025/blob/6bc4e9b84e080cf6073386df941b16c96db15a87/AIML_A5.pdf): Implement Logistic Regression Model Using Titanic Ship Dataset
 6. [Lab.06](https://github.com/2303a51002/AIML_2025/blob/6bc4e9b84e080cf6073386df941b16c96db15a87/AIML_A6.pdf): Implement the K Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab.07](https://github.com/2303a51002/AIML_2025/blob/6bc4e9b84e080cf6073386df941b16c96db15a87/AIML_A7%20(1).pdf): Implement Support Vector Machine Classification using Breast Cancer Dataset
-8. [Lab.08](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A8.pdf): Introduction to Python Libraries-Numpy
-9. [Lab.09](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A9.pdf): Introduction to Python Libraries-Numpy
-10. [Lab.10](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A10.pdf): Introduction to Python Libraries-Numpy
-
+8. [Lab.08](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A8.pdf): I Implement Decision Tree Classification using OpenML Car Dataset
+9. [Lab.09](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A9.pdf): Implement Random Forest Ensemble Model using Lending Data
+10. [Lab.10](https://github.com/2303a51002/AIML_2025/blob/main/AIML_A10.pdf):  Implement K-Means Clustering using Synthetic Data
 # Artificial Intelligence and Machine Learning Lab Jupyter Notebook 
 1. [Lab.01](https://github.com/2303a51002/AIML_2025/blob/main/AIML_LAB01.ipynb):
 2. [Lab.02](https://github.com/2303a51002/AIML_2025/blob/main/AIML_LAB02.ipynb):
@@ -19,6 +18,6 @@
 5. [Lab.05](https://github.com/2303a51002/AIML_2025/blob/main/Lab5_AIML.ipynb):
 6. [Lab.06](https://github.com/2303a51002/AIML_2025/blob/main/AIML_LAB06.ipynb):
 7. [Lab.07](https://github.com/2303a51002/AIML_2025/blob/main/AIML_LAB07.ipynb):
-8. [Lab.08]():
-9. [Lab.09]():
-10. [Lab.10]():
+8. [Lab.08](https://github.com/2303a51002/AIML_2025/blob/main/AIML_LAB08.ipynb):
+9. [Lab.09](https://github.com/2303a51002/AIML_2025/blob/main/AIML_LAB09.ipynb):
+10. [Lab.10](https://github.com/2303a51002/AIML_2025/blob/main/AIML_LAB10.ipynb):
